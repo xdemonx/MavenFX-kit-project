@@ -1,3 +1,5 @@
 asdfsadfsad
 fsadfsda
 f
+SERVER
+12client
