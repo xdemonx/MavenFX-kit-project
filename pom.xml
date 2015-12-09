@@ -7,6 +7,6 @@
     <groupId>psu.kit</groupId>
     <artifactId>MavenFX</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <name>ololo</name>
 
 </project>
